@@ -1,0 +1,2 @@
+D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\UEProj\DiscountWoT\BattleTank\Source\BattleTank\BattleTank.h
