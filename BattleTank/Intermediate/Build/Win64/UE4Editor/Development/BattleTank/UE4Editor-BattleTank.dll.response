@@ -33,6 +33,8 @@
 /FUNCTIONPADMIN
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.h.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAIController.cpp.obj"
+"D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAimingComponent.cpp.obj"
+"D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankBarrel.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Tank.cpp.obj"
@@ -41,6 +43,8 @@
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.gen.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Tank.gen.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAIController.gen.cpp.obj"
+"D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAimingComponent.gen.cpp.obj"
+"D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankBarrel.gen.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankPlayerController.gen.cpp.obj"
 "D:\UEProj\DiscountWoT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Default.rc2.res"
 "delayimp.lib"
